@@ -1,5 +1,5 @@
 demo
 ====
 
-2014cp and cadp demo repository 
+2014cadp and cadp demo repository 
 
